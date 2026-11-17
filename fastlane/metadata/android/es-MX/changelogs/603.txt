@@ -1,0 +1,1 @@
+Se quita el enlace de afiliado de Amazon. Sin otros cambios funcionales.

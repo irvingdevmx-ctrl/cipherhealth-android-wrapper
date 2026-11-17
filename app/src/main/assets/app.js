@@ -11,7 +11,7 @@
   'use strict';
 
   // ---------- Constantes ----------
-  const APP_VERSION = '0.6.2';
+  const APP_VERSION = '0.6.3';
   const DEFAULT_VIEW = 'log';
 
   // Tipos de sintoma disponibles en el formulario (Fase 3).

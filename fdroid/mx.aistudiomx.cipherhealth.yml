@@ -14,14 +14,14 @@ RepoType: git
 Repo: https://github.com/irvingdevmx-ctrl/cipherhealth-android-wrapper.git
 
 Builds:
-  - versionName: 0.6.2
-    versionCode: 602
-    commit: v0.6.2
+  - versionName: 0.6.3
+    versionCode: 603
+    commit: v0.6.3
     subdir: app
     gradle:
       - yes
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 0.6.2
-CurrentVersionCode: 602
+CurrentVersion: 0.6.3
+CurrentVersionCode: 603

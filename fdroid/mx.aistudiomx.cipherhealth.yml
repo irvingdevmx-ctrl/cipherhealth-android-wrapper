@@ -1,0 +1,27 @@
+# Plantilla para enviar a https://gitlab.com/fdroid/fdroiddata (metadata/mx.aistudiomx.cipherhealth.yml)
+Categories:
+  - Science & Education
+License: MIT
+AuthorName: Irving Cortes
+AuthorEmail: irving.dev.mx@gmail.com
+WebSite: https://irvingdevmx-ctrl.github.io/cipher-health/
+SourceCode: https://github.com/irvingdevmx-ctrl/cipherhealth-android-wrapper
+IssueTracker: https://github.com/irvingdevmx-ctrl/cipherhealth-android-wrapper/issues
+
+AutoName: CipherHealth
+
+RepoType: git
+Repo: https://github.com/irvingdevmx-ctrl/cipherhealth-android-wrapper.git
+
+Builds:
+  - versionName: 0.6.2
+    versionCode: 602
+    commit: v0.6.2
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 0.6.2
+CurrentVersionCode: 602

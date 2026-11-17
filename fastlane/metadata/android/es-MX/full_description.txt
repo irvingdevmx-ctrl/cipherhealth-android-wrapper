@@ -1,0 +1,8 @@
+CipherHealth es un rastreador de síntomas y dolor crónico que guarda todo únicamente en tu dispositivo.
+
+• Registra intensidad (1 a 10), tipo de síntoma y notas
+• Historial y estadísticas de los últimos 7 días
+• Exporta tus datos en JSON (copia de seguridad) o CSV (para tu médico)
+• Sin cuentas, sin anuncios, sin telemetría
+• Sin permiso de internet: tus datos nunca salen del teléfono
+• Código abierto (MIT)

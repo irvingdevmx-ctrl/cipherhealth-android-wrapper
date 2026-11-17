@@ -1,0 +1,1 @@
+Primera versión nativa: funciona 100% sin internet, librerías incluidas en la app, exportación con selector de archivos.
